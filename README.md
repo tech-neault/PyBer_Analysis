@@ -6,6 +6,8 @@ This analysis has been requested by PyBer in order to examine the shares of each
 
 
 ## Results
+![farebycityresampleimage](https://github.com/tech-neault/PyBer_Analysis/blob/main/resampled_dates.png)
+
 
 
 
